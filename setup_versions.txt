@@ -1,0 +1,12 @@
+Environment check
+Project: C:\Users\User\Documents\Codex\2026-10-09\cursor-python-git-setup
+
+Commands and results:
+python --version: Python 3.14.8
+git --version: git version 2.56.0.windows.2
+cursor --version: 3.22.12
+3a92974361033b2051526321308c2740fe5912c0
+x64
+Cursor command: C:\Users\User\AppData\Local\Programs\cursor\resources\app\bin\cursor.cmd
+
+Result: Python 3.11+ and Git are available; Cursor is installed.
